@@ -326,7 +326,7 @@ fn create_day_to_meme() -> HashMap<String, (&'static str, &'static str)> {
         四国電力　　色彩感と温度 　 低域薄い　　　　A
         九州電力　　 　 バランス　　　距離感　　 　 　C
         北海道電力 　 低域品質　　　音場狭い 　　 　B-
-        沖縄電力　　　　中高域艶　　 ﾓｯｻﾘ遅い 　　 　A"###, "https://lavender.5ch.net/test/read.cgi/pav/1676116020/l50?v=pc"),
+        沖縄電力　　　　中高域艶　　 ﾓｯｻﾘ遅い 　　 　A"###, "https://lavender.5ch.net/test/read.cgi/pav/1676116020/l50"),
         (r###"この歌詞私のことだ..."###, "https://dic.nicovideo.jp/a/%E3%81%93%E3%81%AE%E6%AD%8C%E8%A9%9E%E7%A7%81%E3%81%AE%E3%81%93%E3%81%A8%E3%81%A0.."),
         (r###""###, ""),
         (r###""###, ""),
