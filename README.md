@@ -13,7 +13,7 @@ cargo build --release
 cargo run
 ```
 
-## Install
+## How to install and run
 
 以下のコマンドでインストールできます。
 
